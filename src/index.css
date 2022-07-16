@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.btn {
+  padding: 10px 20px;
+  margin: 0 10px;
+  border: none;
+  color: white;
+  border-radius: 10px;
+  font-size: 18px;
+}
+
+.btnAdd {
+  background-color: green;
+}
+
+.btnDelete {
+  background-color: red;
+}
+
+.btnRand {
+  background-color: blue;
+}
+
+.display {
+  padding: 20px 10px;
+}

@@ -1,0 +1,31 @@
+.loremBox {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.loremForm {
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 20px;
+  display: block;
+  align-items: center;
+}
+
+label {
+  font-size: 26px;
+  font-weight: 600;
+  padding-right: 10px;
+}
+
+input {
+  height: 35px;
+  padding-left: 20px;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.loremText {
+  padding: 20px 0;
+  margin: 50px 0;
+  border: 1px solid black;
+}

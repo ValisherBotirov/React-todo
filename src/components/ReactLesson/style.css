@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.app {
+  border: 1px solid black;
+  margin: 10px 20px;
+  padding: 20px;
+}
+
+.hidden {
+  opacity: 0;
+}
+
+.useApi {
+  min-height: 300px;
+}
